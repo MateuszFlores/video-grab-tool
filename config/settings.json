@@ -1,0 +1,23 @@
+{
+  "module": "video-grab-tool",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "grabber": {
+      "enabled": true
+    },
+    "sites": {
+      "enabled": true
+    },
+    "convert": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
