@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="video-grab-tool" width="840" />
-
 # Video Grabber — Video Grabber — Universal Video Downloader for Windows (One-Command Setup, Prebuilt Release)
 
 <p><strong>Video Grabber — Video Grabber — Universal Video Downloader for Windows (One-Command Setup, Prebuilt Release): Grab any video in two clicks. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
